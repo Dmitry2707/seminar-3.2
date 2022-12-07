@@ -1,0 +1,15 @@
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/task15.csproj.AssemblyReference.cache
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/task15.AssemblyInfoInputs.cache
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/task15.AssemblyInfo.cs
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/task15.csproj.CoreCompileInputs.cache
+/Users/dmitrij/seminar-3.2/task15/bin/Debug/net6.0/task15
+/Users/dmitrij/seminar-3.2/task15/bin/Debug/net6.0/task15.deps.json
+/Users/dmitrij/seminar-3.2/task15/bin/Debug/net6.0/task15.runtimeconfig.json
+/Users/dmitrij/seminar-3.2/task15/bin/Debug/net6.0/task15.dll
+/Users/dmitrij/seminar-3.2/task15/bin/Debug/net6.0/task15.pdb
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/task15.dll
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/refint/task15.dll
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/task15.pdb
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/task15.genruntimeconfig.cache
+/Users/dmitrij/seminar-3.2/task15/obj/Debug/net6.0/ref/task15.dll
